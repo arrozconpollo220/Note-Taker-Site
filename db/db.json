@@ -7,5 +7,10 @@
         "title": "Hello",
         "text": "Testing\n",
         "id": "8fce8c99-7bf2-4460-a430-b57c5d4ae16e"
+    },
+    {
+        "title": "Another test",
+        "text": "Making sure my notes taker is working",
+        "id": "7c56848f-8f14-4770-ac6f-9f1aee663c3c"
     }
 ]
