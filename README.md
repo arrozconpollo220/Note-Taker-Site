@@ -47,7 +47,10 @@
   https://note-taker-site-1.onrender.com/
 
   ## Screenshots
-  
+  [Recording of N![Screenshot of Note Taker 1](https://github.com/arrozconpollo220/Note-Taker-Site/assets/164965766/6f0b7f2f-6cf0-462c-8d04-59c59286d42f)
+   ote Taker Site.webm](https://github.com/arrozconpollo220/Note-Taker-Site/assets/164965766/42f4d882-3d7a-4532-8dcf-ff9577a1700b)
+  ![Screenshot of Note Taker 2](https://github.com/arrozconpollo220/Note-Taker-Site/assets/164965766/a2f1e625-43c8-40e9-b135-7eea470c8dea)
+
 
   ## Questions?
   Any questions regarding this project can be answered by contacting me through my GitHub Profile at https://github.com/arrozconpollo220 or at my email address at alexander.rodriguez2121@gmail.com. 
